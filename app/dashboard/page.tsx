@@ -8,7 +8,6 @@ import {
   CardsSkeleton,
 } from "@/app/ui/skeletons";
 import { lusitana } from "@/app/ui/fonts";
-import { fetchCardData } from "@/app/lib/data";
 
 export default async function Page() {
   return (
